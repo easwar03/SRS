@@ -1,4 +1,4 @@
-# verbose-dollop
+# School Record System
 This is a school record system that keeps records of students’ examination results and
 personal information. It was coded in python with integration of databases in
 MySQL. 
