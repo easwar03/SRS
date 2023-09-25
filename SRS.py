@@ -1,4 +1,4 @@
-import mysql.connector as db
+import mysql.connector as db #SQL interface
 conn = db.connect(
         host="localhost",
         user="root",
